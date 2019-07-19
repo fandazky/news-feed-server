@@ -1,0 +1,23 @@
+{
+  "time_ms": 1563447411261,
+  "events": [
+    {
+      "channel": "presence-news",
+      "name": "channel_vacated"
+    },
+    {
+      "channel": "presence-news",
+      "name": "channel_occupied"
+    },
+    {
+      "channel": "presence-news",
+      "user_id": "unique_user_id",
+      "name": "member_added"
+    },
+    {
+      "channel": "presence-news",
+      "user_id": "unique_user_id",
+      "name": "member_removed"
+    }
+  ]
+}
